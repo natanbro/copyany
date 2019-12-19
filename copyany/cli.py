@@ -10,8 +10,7 @@ def main():
     args = parser.parse_args()
 
     print("Arguments: " + str(args._))
-    print("Replace this message by putting your code into "
-          "copyany.cli.main")
+    print("Replace this message by putting your code into " "copyany.cli.main")
     return 0
 
 
